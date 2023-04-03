@@ -1,4 +1,6 @@
-### Hi there 👋
+### Good morning! 👋
+
+# What a nice day!
 
 <!--
 **WarrenK17/WarrenK17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
